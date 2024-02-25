@@ -1,0 +1,101 @@
+ID,LastName,FirstName,Woman,Age,Salary,Education,City,SeniorList,NbActivities,Referrals,Recency,Frequency,Seniority,TotalGift,MinGift,MaxGift,Contact,GaveLastYear,AmtLastYear,GaveThisYear,AmtThisYear
+1,Smith,John,false,35,50000,Bachelor's,New York,true,8,3,6,10,2,1000,50,200,Email,true,500,false,0
+2,Johnson,Lisa,true,28,45000,Master's,Los Angeles,false,5,2,4,8,3,750,40,150,Phone,false,0,false,0
+3,Williams,Michael,false,42,60000,PhD,Chicago,true,9,4,5,12,5,1200,60,250,Email,true,800,true,800
+4,Jones,Emily,true,31,55000,Bachelor's,Houston,true,7,3,6,9,2,900,45,180,Phone,true,600,true,600
+5,Brown,David,false,39,58000,Master's,Phoenix,false,8,2,7,11,4,1100,55,220,Email,false,0,false,0
+6,Davis,Sarah,true,29,48000,Bachelor's,Philadelphia,false,6,1,5,7,1,800,40,160,Email,true,400,false,0
+7,Miller,James,false,45,62000,PhD,San Antonio,true,10,3,4,13,6,1300,65,260,Phone,false,0,false,0
+8,Wilson,Michelle,true,33,53000,Master's,San Diego,false,9,2,6,10,3,1000,50,200,Email,true,700,true,700
+9,Martin,Robert,false,37,56000,Bachelor's,Dallas,true,8,2,5,12,4,950,45,190,Phone,false,0,true,550
+10,Anderson,Angela,true,27,47000,PhD,San Jose,false,7,1,4,9,2,850,45,170,Email,false,0,false,0
+11,Taylor,Christopher,false,41,59000,Bachelor's,Austin,false,9,3,6,11,5,1150,55,230,Phone,true,750,false,0
+12,Thomas,Elizabeth,true,30,50000,Master's,Indianapolis,true,6,2,7,8,2,850,40,170,Email,true,500,true,500
+13,Jackson,Matthew,false,44,61000,Bachelor's,Jacksonville,true,11,4,5,15,7,1400,70,280,Phone,false,0,true,600
+14,White,Amanda,true,32,54000,PhD,San Francisco,false,10,3,6,13,5,1100,50,220,Email,true,750,true,750
+15,Harris,Andrew,false,38,57000,Master's,Columbus,true,8,2,5,11,4,1000,50,200,Phone,false,0,false,0
+16,Martin,Jessica,true,28,48000,Bachelor's,Fort Worth,false,7,1,4,9,2,800,40,160,Email,true,450,false,0
+17,Thompson,David,false,43,60000,PhD,Charlotte,true,12,4,5,16,7,1500,75,300,Phone,true,800,false,0
+18,Garcia,Emily,true,31,55000,Bachelor's,Detroit,true,9,3,6,12,4,1050,50,210,Email,true,600,false,0
+19,Martinez,Jason,false,36,57000,Master's,El Paso,false,8,2,7,10,3,950,45,190,Phone,false,0,false,0
+20,Robinson,Ashley,true,26,46000,Bachelor's,Memphis,false,7,1,4,8,2,850,40,170,Email,true,500,true,500
+21,Clark,Justin,false,40,58000,PhD,Boston,true,11,3,6,14,6,1350,65,270,Phone,false,0,false,0
+22,Rodriguez,Samantha,true,29,49000,Bachelor's,Seattle,false,6,2,5,8,2,800,40,160,Email,true,450,false,0
+23,Lewis,Ryan,false,46,63000,Master's,Denver,true,10,3,4,14,5,1200,60,240,Phone,true,700,true,700
+24,Lee,Megan,true,34,54000,Bachelor's,Baltimore,true,8,2,7,11,4,1000,50,200,Email,false,0,false,0
+25,Walker,Jonathan,false,39,58000,PhD,Las Vegas,true,9,2,6,12,4,1100,55,220,Phone,true,800,true,800
+26,Hall,Kimberly,true,31,55000,Bachelor's,Albuquerque,false,7,1,4,9,2,850,45,170,Email,true,500,true,500
+27,Young,Nicholas,false,45,62000,Master's,Long Beach,false,10,3,6,13,5,1300,65,260,Phone,false,0,false,0
+28,Hernandez,Jennifer,true,33,53000,Bachelor's,Oklahoma City,true,9,2,5,11,4,950,45,190,Email,false,0,true,550
+29,King,Brandon,false,37,56000,PhD,Portland,false,8,2,5,12,4,950,45,190,Phone,false,0,true,550
+30,Wright,Amy,true,27,47000,Bachelor's,Tucson,true,7,1,4,8,2,850,40,170,Email,true,500,true,500
+31,Lopez,Timothy,false,41,59000,Master's,Omaha,false,10,3,6,13,5,1150,55,230,Phone,false,0,false,0
+32,Hill,Rebecca,true,30,50000,Bachelor's,Miami,true,8,2,7,10,3,1000,50,200,Email,true,600,false,0
+33,Scott,Nathan,false,44,61000,PhD,Oakland,false,11,4,5,15,6,1300,65,260,Phone,true,700,false,0
+34,Green,Kelly,true,32,54000,Bachelor's,Tulsa,false,9,3,6,12,4,1050,50,210,Email,true,750,true,750
+35,Adams,Aaron,false,38,57000,Master's,Cleveland,true,8,2,5,11,4,1000,50,200,Phone,true,800,true,800
+36,Baker,Christine,true,28,48000,Bachelor's,Minneapolis,false,7,1,4,9,2,800,40,160,Email,false,0,false,0
+37,Gonzalez,Travis,false,43,60000,PhD,Anaheim,true,10,3,6,13,5,1200,60,240,Phone,true,700,false,0
+38,Nelson,Lindsey,true,31,55000,Bachelor's,Honolulu,true,9,2,7,10,3,950,45,190,Email,true,500,true,500
+39,Carter,Jason,false,36,57000,Master's,Arlington,false,8,2,5,12,4,950,45,190,Phone,true,550,false,0
+40,Mitchell,Stephanie,true,26,46000,Bachelor's,Bakersfield,false,7,1,4,8,2,850,40,170,Email,false,0,false,0
+41,Perez,Jeremy,false,40,58000,PhD,Tampa,true,11,3,6,14,5,1350,65,270,Phone,true,800,true,800
+42,Roberts,Emily,true,29,49000,Bachelor's,Aurora,false,6,2,5,8,2,800,40,160,Email,true,450,false,0
+43,Turner,Brandon,false,46,63000,Master's,Santa Ana,true,10,3,4,14,5,1200,60,240,Phone,true,700,true,700
+44,Phillips,Melissa,true,34,54000,Bachelor's,Riverside,true,8,2,7,11,4,1000,50,200,Email,false,0,false,0
+45,Campbell,Jeffrey,false,39,58000,PhD,Corpus Christi,true,9,2,6,12,4,1100,55,220,Phone,true,800,false,0
+46,Parker,Christina,true,31,55000,Bachelor's,Lexington,true,7,1,4,9,2,850,45,170,Email,true,500,true,500
+47,Evans,Todd,false,45,62000,Master's,Pittsburgh,true,10,3,6,13,5,1300,65,260,Phone,false,0,true,600
+48,Edwards,Courtney,true,33,53000,Bachelor's,St. Paul,true,9,2,5,11,4,950,45,190,Email,false,0,true,550
+49,Collins,Philip,false,37,56000,PhD,Stockton,true,8,2,5,12,4,950,45,190,Phone,true,550,false,0
+50,Stewart,Patricia,true,27,47000,Bachelor's,Cincinnati,true,7,1,4,8,2,850,40,170,Email,false,0,false,0
+51,Sanchez,Joshua,false,41,59000,Master's,St. Louis,true,10,3,6,13,5,1150,55,230,Phone,true,750,false,0
+52,Morris,Heather,true,30,50000,Bachelor's,Greensboro,true,8,2,7,10,3,1000,50,200,Email,true,600,true,600
+53,Rogers,Andrew,false,44,61000,PhD,Anchorage,true,11,4,5,15,6,1300,65,260,Phone,false,0,false,0
+54,Reed,Megan,true,32,54000,Bachelor's,Plano,true,9,3,6,12,4,1050,50,210,Email,true,750,true,750
+55,Cook,Alexander,false,38,57000,Master's,Lincoln,true,8,2,5,11,4,1000,50,200,Phone,true,800,false,0
+56,Morgan,Lauren,true,28,48000,Bachelor's,Henderson,true,7,1,4,9,2,800,40,160,Email,true,450,false,0
+57,Bell,George,false,43,60000,PhD,Buffalo,true,10,3,6,13,5,1200,60,240,Phone,true,700,true,700
+58,Murphy,Ashley,true,31,55000,Bachelor's,Jersey City,true,9,2,7,10,3,950,45,190,Email,false,0,true,550
+59,Bailey,Daniel,false,36,57000,Master's,Chula Vista,true,8,2,5,12,4,950,45,190,Phone,false,0,false,0
+60,Rivera,Katherine,true,26,46000,Bachelor's,Orlando,true,7,1,4,8,2,850,40,170,Email,false,0,false,0
+61,Cooper,Brian,false,40,58000,PhD,Toledo,true,11,3,6,14,5,1350,65,270,Phone,true,800,true,800
+62,Richardson,Mary,true,29,49000,Bachelor's,Chandler,true,6,2,5,8,2,800,40,160,Email,true,450,false,0
+63,Cox,Jose,false,46,63000,Master's,Durham,true,10,3,4,14,5,1200,60,240,Phone,true,700,true,700
+64,Howard,Kimberly,true,34,54000,Bachelor's,Madison,true,8,2,7,11,4,1000,50,200,Email,true,600,false,0
+65,Ward,Kenneth,false,39,58000,PhD,Lubbock,true,9,2,6,12,4,1100,55,220,Phone,false,0,false,0
+66,Richards,Steven,false,31,55000,Bachelor's,Irvine,true,7,1,4,9,2,850,45,170,Email,false,0,false,0
+67,Watson,Brittany,true,45,62000,Master's,Winston-Salem,true,10,3,6,13,5,1300,65,260,Phone,true,700,true,700
+68,Brooks,Rachel,true,33,53000,Bachelor's,Glendale,true,9,2,5,11,4,950,45,190,Email,true,500,false,0
+69,Sanders,Justin,false,37,56000,PhD,Garland,true,8,2,5,12,4,950,45,190,Phone,false,0,true,550
+70,Price,Anna,true,27,47000,Bachelor's,Hialeah,true,7,1,4,8,2,850,40,170,Email,false,0,true,500
+71,Bennett,Kevin,false,41,59000,Master's,Rochester,true,10,3,6,13,5,1150,55,230,Phone,true,750,true,750
+72,Wood,Maria,true,30,50000,Bachelor's,Scottsdale,true,8,2,7,10,3,1000,50,200,Email,true,600,true,600
+73,Barnes,Jordan,false,44,61000,PhD,North Las Vegas,true,11,4,5,15,6,1300,65,260,Phone,false,0,false,0
+74,Ross,Brandon,false,32,54000,Bachelor's,Norfolk,true,9,3,6,12,4,1050,50,210,Email,true,750,true,750
+75,Henderson,Angela,true,38,57000,Master's,Baton Rouge,true,8,2,5,11,4,1000,50,200,Phone,true,800,false,0
+76,Cole,Justin,false,28,48000,Bachelor's,Richmond,true,7,1,4,9,2,800,40,160,Email,true,450,false,0
+77,Jenkins,Christina,true,43,60000,PhD,Des Moines,true,10,3,6,13,5,1200,60,240,Phone,false,0,true,600
+78,Perry,Nicholas,false,31,55000,Bachelor's,Modesto,true,9,2,7,10,3,950,45,190,Email,true,500,false,0
+79,Powell,Catherine,true,36,57000,Master's,Fayetteville,true,8,2,5,12,4,950,45,190,Phone,true,550,true,550
+80,Long,Brian,false,26,46000,Bachelor's,Shreveport,true,7,1,4,8,2,850,40,170,Email,false,0,false,0
+81,Patterson,Rebecca,true,40,58000,PhD,Oxnard,true,11,3,6,14,5,1350,65,270,Phone,true,800,true,800
+82,Hughes,Lauren,true,29,49000,Bachelor's,Fontana,true,6,2,5,8,2,800,40,160,Email,false,0,true,500
+83,Flores,Daniel,false,46,63000,Master's,Alexandria,true,10,3,4,14,5,1200,60,240,Phone,true,700,false,0
+84,Washington,Ashley,true,34,54000,Bachelor's,Springfield,true,8,2,7,11,4,1000,50,200,Email,true,600,false,0
+85,Butler,Joseph,false,39,58000,PhD,Lakewood,true,9,2,6,12,4,1100,55,220,Phone,false,0,false,0
+86,Simmons,Samantha,true,31,55000,Bachelor's,Fremont,true,7,1,4,9,2,850,45,170,Email,true,500,false,0
+87,Foster,Michelle,true,45,62000,Master's,Warren,true,10,3,6,13,5,1300,65,260,Phone,true,700,false,0
+88,Gonzales,Jonathan,false,33,53000,Bachelor's,Independence,true,9,2,5,11,4,950,45,190,Email,false,0,false,0
+89,Bryant,Kimberly,true,37,56000,PhD,Hartford,true,8,2,5,12,4,950,45,190,Phone,false,0,true,550
+90,Alexander,Sarah,true,27,47000,Bachelor's,New Haven,true,7,1,4,8,2,850,40,170,Email,true,500,true,500
+91,Russell,Andrew,false,41,59000,Master's,Visalia,true,10,3,6,13,5,1150,55,230,Phone,false,0,false,0
+92,Griffin,Courtney,true,30,50000,Bachelor's,Carrollton,true,8,2,7,10,3,1000,50,200,Email,true,600,true,600
+93,Diaz,Nicholas,false,44,61000,PhD,Roseville,true,11,4,5,15,6,1300,65,260,Phone,true,700,false,0
+94,Hayes,Brittany,true,32,54000,Bachelor's,Georgetown,true,9,3,6,12,4,1050,50,210,Email,false,0,true,750
+95,Myers,Brian,false,38,57000,Master's,Muncie,true,8,2,5,11,4,1000,50,200,Phone,true,800,true,800
+96,Ford,Amy,true,28,48000,Bachelor's,St. George,true,7,1,4,9,2,800,40,160,Email,true,450,false,0
+97,Hamilton,George,false,43,60000,PhD,Florence,true,10,3,6,13,5,1200,60,240,Phone,true,700,true,700
+98,Graham,Amber,true,31,55000,Bachelor's,Hudson,true,9,2,7,10,3,950,45,190,Email,false,0,false,0
+99,Sullivan,Douglas,false,37,56000,PhD,Peoria,true,8,2,5,12,4,950,45,190,Phone,true,550,false,0
+100,Woods,Jessica,true,27,47000,Bachelor's,Ontario,true,7,1,4,8,2,850,40,170,Email,false,0,true,500
